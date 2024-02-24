@@ -7,4 +7,4 @@ Server's Map Backup
 ## 服务器交接
 原腐竹：makerlai(bcsyzwqhz)
 
-新腐竹：(Ginsway)[https://github.com/Ginsway]
+新腐竹：[Ginsway](https://github.com/Ginsway)
