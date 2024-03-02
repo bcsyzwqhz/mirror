@@ -5,5 +5,5 @@ Server's Map Backup
 服务器的问题可以通过issue来反馈
 
 ## 服务器管理组
-腐竹：[makerlai](https://github.com/bcsyzwqhz)  
-物理腐竹：[Ginsway](https://github.com/Ginsway)
+前腐竹：[makerlai](https://github.com/bcsyzwqhz)（集翔物）  
+现腐竹&物理腐竹：[Ginsway](https://github.com/Ginsway)
