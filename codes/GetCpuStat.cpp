@@ -51,7 +51,7 @@ int main()
 	{
 		now=getCpuStat();
 		cout<<"CPU Usage:"<<to_string(getCpuUse(&old,&now)*100)+"%"<<endl;
-		cout<<"CPU Temp:"<<to_string(getCPUtemp())+"â„ƒ"<<endl<<endl;
+		cout<<"CPU Temp:"<<to_string(getCPUtemp())+"¡æ"<<endl<<endl;
 		old=now;
 		sleep(1);
 	}
